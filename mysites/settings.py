@@ -87,7 +87,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'blog',
         'USER': 'blog',
-        'PASSWORD': 'oghenero123',
+        'PASSWORD': '#',
         'HOST': 'localhost',
         'PORT': '5432',
 
@@ -140,8 +140,8 @@ STATIC_FILE_DIR = [
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'goddayoghenerobiz@gmail.com'
-EMAIL_HOST_PASSWORD = 'jurmlhcrfkkwaadw'
+EMAIL_HOST_USER = '#'
+EMAIL_HOST_PASSWORD = '#'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
